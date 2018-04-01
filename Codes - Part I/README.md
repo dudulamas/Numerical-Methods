@@ -1,1 +1,0 @@
-# metodos_bisection_fakePosition_NP
